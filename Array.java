@@ -28,5 +28,6 @@ public class Array {
 			}
 		}
 		System.out.println("Total "+count);
+		System.out.print(count);
 	}
 }
